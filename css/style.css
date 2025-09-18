@@ -8290,7 +8290,7 @@ h1, h2, h3, h4, h5,
     letter-spacing: .1em; }
     .ftco-navbar-light .navbar-toggler:hover, .ftco-navbar-light .navbar-toggler:focus {
       text-decoration: none;
-      color: #F37321f;
+      color: #F37321;
       outline: none !important; }
   .ftco-navbar-light.scrolled {
     position: fixed;
